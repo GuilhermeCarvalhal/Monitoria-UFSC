@@ -1,4 +1,4 @@
-package grafos_apoio;
+package grafos;
 
 import java.util.*;
 

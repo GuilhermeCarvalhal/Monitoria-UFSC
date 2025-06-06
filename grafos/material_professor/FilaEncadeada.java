@@ -1,4 +1,4 @@
-package grafos_apoio.material_professor;
+package grafos.material_professor;
 
 import java.util.LinkedList;
 

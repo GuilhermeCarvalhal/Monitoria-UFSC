@@ -1,4 +1,4 @@
-package grafos_apoio;
+package grafos;
 
 public class GrafoDirecionadoMatriz {
     private int[][] matrizAdjacencia;
